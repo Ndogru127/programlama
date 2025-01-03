@@ -1,2 +1,1 @@
-# programlama
-Programlama Projesi 
+ 
